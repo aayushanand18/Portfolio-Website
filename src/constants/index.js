@@ -14,7 +14,7 @@ export const EXPERIENCES = [
     image: bitmesra,
     role: "BTech - Computer Science & Engineering",
     company: "Birla Institute of Technology, Mesra",
-    description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Birla Institute of Technology, Mesra, with a current GPA of 8.00/10.00. Currently in the pre-final year, I am honing my skills in software development, an active member of Google Developer Student Clubs.`,
+    description: `Pursuing a Bachelor of Technology (BTech) in Computer Science Engineering at Birla Institute of Technology, Mesra, with a current GPA of 8.00/10.00 (Absolute). Currently in the pre-final year, I am honing my skills in software development, an active member of Google Developer Student Clubs.`,
     technologies: ["DBMS", "OOPS", "Operating Systems", "Data Structures & Algorithms"],
   },
   {
