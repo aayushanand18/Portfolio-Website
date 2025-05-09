@@ -18,7 +18,7 @@ const container = (delay) => ({
 });
 
 const Hero = () => {
-  const words = ["Full Stack Developer", "Upcoming Intern @Goldman Sachs", "Tech Enthusiast", "Innovating for Impact", "AWS Certified Cloud Practitioner"];
+  const words = ["Full Stack Developer", "Upcoming Intern @Goldman Sachs", "Tech Enthusiast", "Innovating for Impact"];
 
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35 -mt-14">
@@ -59,7 +59,7 @@ const Hero = () => {
               {HERO_CONTENT}
             </motion.p>
 
-            <button className="inline-flex h-12 animate-shimmer items-center justify-center rounded-md border border-slate-800 bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-slate-400 transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
+{/*             <button className="inline-flex h-12 animate-shimmer items-center justify-center rounded-md border border-slate-800 bg-[linear-gradient(110deg,#000103,45%,#1e2631,55%,#000103)] bg-[length:200%_100%] px-6 font-medium text-slate-400 transition-colors focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
               <a
                 href={resume}
                 download="Aayush_Resume.pdf"
@@ -70,7 +70,7 @@ const Hero = () => {
               
                 <span>DOWNLOAD RESUME</span>
               </a>
-            </button>
+            </button> */}
           </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">
