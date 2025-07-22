@@ -18,7 +18,7 @@ const container = (delay) => ({
 });
 
 const Hero = () => {
-  const words = ["Full Stack Developer", "AWS Certified Cloud Practitioner", "Fromer Intern @Goldman Sachs", "Tech Enthusiast", "Innovating for Impact"];
+  const words = ["Full Stack Developer", "AWS Certified Cloud Practitioner", "Former SWE Intern @Goldman Sachs", "Tech Enthusiast", "Innovating for Impact"];
 
   return (
     <div className="border-b border-neutral-900 pb-4 lg:mb-35 -mt-14">
